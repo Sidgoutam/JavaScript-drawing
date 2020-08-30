@@ -5,4 +5,4 @@ By working on this project, you can learn how to use and implement JavaScript’
 
 Simple improvisation of JavaScript keywords to draw handsfree using the mouse
 
-[!Image]out.png
+[!Images](out.png)
